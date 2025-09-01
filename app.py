@@ -86,12 +86,13 @@ try:
                             width=500, height=500)
 
     # --- TABS ---
-    tab1, tab2, tab3, tab4, tab5 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5,tab6 = st.tabs([
         "Gift Frequency",
         "Last Gift Timeline",
         "Donations",
         "Event Attendance",
-        "Donor Cultivation Analysis"
+        "Donor Cultivation Analysis",
+	"Actionable Insights and Recommendations"
     ])
 
     with tab1:
@@ -186,6 +187,48 @@ try:
 
         st.markdown(f"####  Bottom {top_n} Donors – {year_option}")
         st.dataframe(bottom, use_container_width=True)
+
+    with tab6:
+        st.subheader(" Actionable Insights & Recommendations")
+
+        insights = """
+        **1. Prioritize High-Value Donors**  
+        A small group of donors consistently contributes the highest average annual donations.  
+        _Recommendation:_ Establish a major donor stewardship program to engage these top donors with personalized updates, events, and recognition opportunities.
+
+        **2. Re-Engage Dormant Donors**  
+        A notable percentage of donors have not given since FY2022.  
+        _Recommendation:_ Launch a re-engagement campaign (email, phone, or in-person) to reconnect and understand their reasons for inactivity.
+
+        **3. Leverage Event Attendance Behavior**  
+        Event attendees tend to have higher total donations than non-attendees.  
+        _Recommendation:_ Expand donor event opportunities and track RSVP vs. gift conversion to better plan future engagements.
+
+        **4. Target Consistent Givers for Recurring Programs**  
+        Donors who give every year exhibit high loyalty and reliability.  
+        _Recommendation:_ Invite them to join monthly or quarterly giving programs to increase retention and lifetime value.
+
+        **5. Improve Email Communication**  
+        Many donors lack recorded email addresses, limiting digital engagement.  
+        _Recommendation:_ Prioritize email collection in all interactions. Use incentives like newsletters or early-access event invites to encourage sign-ups.
+
+        **6. Segment by Giving Frequency**  
+        One-time donors dominate the database but contribute less overall.  
+        _Recommendation:_ Use segmentation to craft specific messaging for one-time, occasional, and frequent donors, aiming to convert one-time givers into repeat supporters.
+
+        **7. Capture and Utilize Relationship Notes**  
+        Some donor profiles include valuable personal notes.  
+        _Recommendation:_ Encourage staff to regularly update relationship notes to support personalized outreach, especially for stewardship or planned giving.
+
+        **8. Analyze Giving Gaps**  
+        A few high-potential donors show irregular giving patterns.  
+        _Recommendation:_ Identify these gaps and investigate if internal or external factors (e.g. lack of follow-up, change in contact info) contributed.
+        """
+
+        st.markdown(insights)
+   
+
+
 # --- ERROR HANDLING ---
 except FileNotFoundError:
     st.error("❌ File 'cleandata.xlsx' not found in this directory.")
