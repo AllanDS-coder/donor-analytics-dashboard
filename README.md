@@ -1,7 +1,8 @@
-# Donor Analytics Dashboard for Fundraising Strategy
-## Interactive Business Intelligence Dashboard for Donor Segmentation, Engagement Analysis, and Fundraising Decision Support
+# Donor Analytics Dashboard for Fundraising Strategy   
 
-**MCBertyd Foundation (Pseudonym) | FY2022–FY2024 Donor Trends & Recommendations**  
+### Interactive Business Intelligence Dashboard for Donor Segmentation, Engagement Analysis, and Data-Driven Fundraising   
+
+**Case Study:** MCBertyd Foundation (Pseudonym) | FY2022–FY2024   
 
 link : https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/
 
