@@ -1,8 +1,23 @@
-# Donor Data Management & Cultivation Strategy Analysis
+# Donor Analytics Dashboard for Fundraising Strategy
+## Interactive Business Intelligence Dashboard for Donor Segmentation, Engagement Analysis, and Fundraising Decision Support
 
 **MCBertyd Foundation (Pseudonym) | FY2022–FY2024 Donor Trends & Recommendations**  
 
 link : https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/
+
+---
+
+## Business Problem
+
+Many nonprofit organizations collect donor data but struggle to transform it into actionable fundraising strategies.   
+
+Without effective donor segmentation and engagement analytics, organizations risk:  
+
+a. Declining donor retention,    
+b. Inefficient fundraising campaigns,   
+c. Missed opportunities for donor cultivation.    
+
+This project demonstrates how interactive analytics can support evidence-based fundraising decisions.    
 
 ---
 
@@ -12,17 +27,33 @@ This project presents a comprehensive analysis of donor data trends and engageme
 
 **Note:** Organization names and donor data have been anonymized or synthetically generated to protect confidentiality. This project reflects the analytical and technical skills used in real-world donor management settings.
 
+---   
+## Business Value   
+
+This dashboard enables nonprofit organizations to:    
+
+- Improve donor retention strategies.   
+- Identify cultivation opportunities.   
+- Prioritize high-value donor relationships.   
+- Monitor fundraising performance.  
+- Support strategic planning using data. 
+
 ---
 
 ## Objective
 
 To enable nonprofit leadership and development teams to:
 
-- Identify key patterns in donor behavior  
-- Segment and target donors based on giving frequency and engagement  
-- Track donation trends over time  
-- Recognize top contributors and at-risk donors  
-- Inform personalized stewardship and communication strategies  
+- Analyze donor giving behavior across three financial years.  
+- Identify key patterns in donor behavior   
+- Segment and target donors based on giving frequency and engagement   
+- Identify high-value, loyal, and at-risk donors.   
+- Track donation trends over time    
+- Recognize top contributors and at-risk donors
+- Support donor stewardship through interactive analytics.     
+- Inform personalized stewardship and communication strategies
+- Monitor donation trends over time.
+- Enable data-driven fundraising decisions    
 
 ---
 
@@ -47,6 +78,20 @@ To enable nonprofit leadership and development teams to:
 ---
 
 ## 🛠Tools & Technologies
+
+**Programming**     
+- Python   
+
+**Libraries**    
+- Pandas   
+- Plotly    
+- Streamlit     
+
+**Data Source**  
+- Excel    
+
+**Deployment** 
+- Streamlit Cloud    
 
 | Tool         | Purpose                           |
 |--------------|-----------------------------------|
