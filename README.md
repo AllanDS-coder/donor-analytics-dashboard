@@ -119,7 +119,24 @@ The analysis demonstrated several fundraising patterns:
 - Interactive segmentation enabled identification of high-value and at-risk donor groups to support targeted stewardship.    
 
 ---   
+## Screenshots   
 
+
+<img width="1411" height="681" alt="image" src="https://github.com/user-attachments/assets/fbb2f811-2f31-4dca-b265-3e67a37305e8" />   
+
+<img width="1453" height="726" alt="image" src="https://github.com/user-attachments/assets/d7b2081c-decf-4734-b027-fdeb9fa6b66f" />   
+
+<img width="1411" height="681" alt="image" src="https://github.com/user-attachments/assets/bafb4f93-1acd-4b7d-90b6-025904f7e8da" />    
+
+<img width="1411" height="681" alt="image" src="https://github.com/user-attachments/assets/d2919a6d-d94a-4a6a-8ee3-11dc9655a469" />     
+
+<img width="1452" height="456" alt="image" src="https://github.com/user-attachments/assets/ec2ef7e3-b6bd-4696-aeb7-a32ea3604cd3" />   
+
+<img width="1546" height="698" alt="image" src="https://github.com/user-attachments/assets/daa554e1-0235-47f6-bbd5-de3977091625" />    
+
+<img width="1311" height="772" alt="image" src="https://github.com/user-attachments/assets/b56a6fa1-3450-4bbb-8cde-0a7d9a8ecc39" />     
+
+---
 ##  Data Privacy & Ethics
 
 This project was inspired by real donor analytics work. However:
