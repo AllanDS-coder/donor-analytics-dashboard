@@ -1,8 +1,7 @@
 # Donor Analytics Dashboard for Fundraising Strategy   
 
-# Donor Analytics Dashboard
-
-![Dashboard Overview](images/dashboard_overview.png)    
+![Dashboard Overview](<img width="1913" height="814" alt="image" src="https://github.com/user-attachments/assets/a86f7e02-a486-4454-94be-d3704512c7ba" />
+)    
 
 ### Interactive Business Intelligence Dashboard for Donor Segmentation, Engagement Analysis, and Data-Driven Fundraising   
 
