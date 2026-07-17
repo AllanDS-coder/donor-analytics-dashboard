@@ -1,9 +1,8 @@
 # Donor Analytics Dashboard for Fundraising Strategy   
 
-![Dashboard Overview](<img width="1913" height="814" alt="image" src="https://github.com/user-attachments/assets/a86f7e02-a486-4454-94be-d3704512c7ba" />
-)    
+### Interactive Business Intelligence Dashboard for Donor Segmentation, Engagement Analysis, and Data-Driven Decision Support    
 
-### Interactive Business Intelligence Dashboard for Donor Segmentation, Engagement Analysis, and Data-Driven Fundraising   
+![Dashboard Overview](images/loadingdata.PNG)   
 
 **Case Study:** MCBertyd Foundation (Pseudonym) | FY2022–FY2024   
 
@@ -85,6 +84,7 @@ To enable nonprofit leadership and development teams to, this dashboard enables 
 
 | Tool         | Purpose                           |
 |--------------|-----------------------------------|
+| Git & GitHub | Version control                   |
 | Python       | Data analysis and scripting       |
 | Pandas       | Data manipulation and aggregation |
 | Plotly       | Interactive data visualizations   |
@@ -110,6 +110,30 @@ donor-analytics-dashboard/
 │   └── donor_analytics_eda.ipynb    
 │   
 └── images/    
+
+---
+
+## Analytics Workflow   
+
+Excel Dataset   
+      │
+      ▼
+Data Cleaning (Pandas)    
+      │
+      ▼
+Exploratory Data Analysis    
+      │
+      ▼
+Business KPIs    
+      │
+      ▼
+Interactive Plotly Visualizations    
+      │
+      ▼
+Streamlit Dashboard   
+      │
+      ▼
+Fundraising Decision Support    
 
 ---
 ## Key Insights
@@ -140,6 +164,23 @@ The analysis demonstrated several fundraising patterns:
 <img width="1311" height="772" alt="image" src="https://github.com/user-attachments/assets/b56a6fa1-3450-4bbb-8cde-0a7d9a8ecc39" />     
 
 ---
+## Lessons Learned and Skills Demonstrated   
+
+This project strengthened my ability to transform raw donor data into actionable business intelligence. It reinforced the importance of dashboard usability, stakeholder-focused communication, and ethical handling of sensitive data while improving my skills in Streamlit application development and interactive analytics.     
+
+**Skills Demonstrated**   
+- Business Intelligence    
+- Exploratory Data Analysis   
+- Dashboard Development   
+- Donor Segmentation   
+- Data Visualization   
+- Streamlit Deployment   
+- Pandas   
+- Plotly   
+- Python   
+
+---
+
 ##  Data Privacy & Ethics
 
 This project was inspired by real donor analytics work. However:
@@ -152,7 +193,7 @@ The ethical handling of donor data is a top priority, and this project complies 
 
 ---
 
-## Use Case
+## Outcomes
 
 This project demonstrates my capabilities in:
 
@@ -165,7 +206,7 @@ It is intended to showcase technical and analytical skills relevant to **Data An
 
 ---
 
-## Let’s Connect
+## Contact
 
 I'm actively seeking opportunities where I can contribute to mission-driven organizations through data.
 
