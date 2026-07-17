@@ -4,21 +4,26 @@
 
 **Case Study:** MCBertyd Foundation (Pseudonym) | FY2022–FY2024   
 
-link : https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/
+## Live Demo     
+
+**Explore the dashboard online:**     
+
+https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/   
 
 ---
+ 
+## Business Problem     
 
-## Business Problem
+Nonprofit organizations collect large amounts of donor data but often struggle to transform it into actionable fundraising intelligence.   
 
-Many nonprofit organizations collect donor data but struggle to transform it into actionable fundraising strategies.   
+Without effective donor segmentation and engagement analytics, organizations may experience:   
 
-Without effective donor segmentation and engagement analytics, organizations risk:  
+- Declining donor retention    
+- Inefficient fundraising campaigns   
+- Missed donor cultivation opportunities   
+- Limited visibility into giving trends   
 
-a. Declining donor retention,    
-b. Inefficient fundraising campaigns,   
-c. Missed opportunities for donor cultivation.    
-
-This project demonstrates how interactive analytics can support evidence-based fundraising decisions.    
+This project demonstrates how interactive analytics can support evidence-based fundraising decisions and strengthen donor relationship management.   
 
 ---
 
@@ -41,22 +46,17 @@ This dashboard enables nonprofit organizations to:
 
 ---
 
-## Objective
+## Objective   
 
-To enable nonprofit leadership and development teams to:
+To enable nonprofit leadership and development teams to, this dashboard enables nonprofit organizations to:    
 
-- Analyze donor giving behavior across three financial years.  
-- Identify key patterns in donor behavior   
-- Segment and target donors based on giving frequency and engagement   
+- Analyze donor giving behavior across multiple financial years.   
+- Segment donors based on giving frequency and engagement.     
 - Identify high-value, loyal, and at-risk donors.   
-- Track donation trends over time    
-- Recognize top contributors and at-risk donors
-- Support donor stewardship through interactive analytics.     
-- Inform personalized stewardship and communication strategies
-- Monitor donation trends over time.
-- Enable data-driven fundraising decisions    
+- Monitor fundraising performance through interactive dashboards.   
+- Support data-driven donor stewardship and strategic decision-making.   
 
----
+---   
 
 ##  Features
 
