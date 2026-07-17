@@ -78,21 +78,7 @@ To enable nonprofit leadership and development teams to, this dashboard enables 
 
 ---
 
-## 🛠Tools & Technologies
-
-**Programming**     
-- Python   
-
-**Libraries**    
-- Pandas   
-- Plotly    
-- Streamlit     
-
-**Data Source**  
-- Excel    
-
-**Deployment** 
-- Streamlit Cloud    
+## 🛠Tools & Technologies 
 
 | Tool         | Purpose                           |
 |--------------|-----------------------------------|
@@ -105,13 +91,34 @@ To enable nonprofit leadership and development teams to, this dashboard enables 
 ---
 
 ## Project Structure
-donor-analysis-dashboard/   
-├── app.py # Main Streamlit app  
-├── cleandata.xlsx # Cleaned donor data (anonymized)   
-├── README.md # Project documentation  
-└── requirements.txt # Python dependencies  
+
+donor-analytics-dashboard/   
+│   
+├── README.md   
+├── LICENSE   
+├── requirements.txt   
+├── app.py   
+│   
+├── data/   
+│   └── processed/    
+│       └── clean_donor_data.xlsx    
+│    
+├── notebooks/    
+│   └── donor_analytics_eda.ipynb    
+│   
+└── images/    
 
 ---
+## Key Insights
+
+The analysis demonstrated several fundraising patterns:    
+
+- A relatively small group of donors accounted for a significant proportion of total donations.    
+- Donor engagement declined among some previously active contributors, highlighting opportunities for re-engagement.   
+- Donation trends varied across financial years, providing insights for campaign planning.    
+- Interactive segmentation enabled identification of high-value and at-risk donor groups to support targeted stewardship.    
+
+---   
 
 ##  Data Privacy & Ethics
 
