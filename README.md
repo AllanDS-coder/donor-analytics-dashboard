@@ -241,6 +241,17 @@ It is intended to showcase technical and analytical skills relevant to **Data An
 
 ---
 
+## Future Improvements:   
+
+- Predict donor churn.   
+- Forecast future donations.   
+- CRM integration.   
+- AI-powered narrative generation.   
+- User authentication.   
+- PDF report generation.
+
+---
+
 ## Contact
 
 I'm actively seeking opportunities where I can contribute to mission-driven organizations through data.
