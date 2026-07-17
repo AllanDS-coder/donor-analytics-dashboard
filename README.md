@@ -47,6 +47,10 @@ This dashboard enables nonprofit organizations to:
 - Support strategic planning using data. 
 
 ---
+## Executive Summary   
+In addition to interactive visualizations, the dashboard includes an automated insight generation module that summarizes analytical findings into natural-language narratives, helping non-technical stakeholders interpret donor trends more efficiently.     
+
+----
 
 ## Objective   
 
@@ -60,7 +64,38 @@ To enable nonprofit leadership and development teams to, this dashboard enables 
 
 ---   
 
-##  Features
+## Signature Feature: Automated Insight Generator     
+
+One of the distinguishing features of this dashboard is the **Automated Insight Generator**, which converts analytical results into clear, human-readable summaries.    
+
+Instead of requiring users to interpret multiple charts manually, the system automatically generates concise narratives that highlight important fundraising trends, donor engagement patterns, and potential cultivation opportunities.    
+
+This feature improves accessibility for non-technical stakeholders and supports faster, evidence-based decision-making.    
+
+![automatedinsightgenerator](images/automated_insights.png)  
+
+The module automatically summarizes key findings, including:    
+
+- Annual fundraising performance    
+- Changes in donor engagement    
+- High-value donor identification   
+- Low-engagement donor detection   
+- Donation trends over time   
+- Strategic recommendations for donor cultivation    
+
+Traditional dashboards require users to interpret charts and tables independently.    
+
+The Automated Insight Generator bridges the gap between data analysis and decision-making by transforming quantitative results into concise narrative insights that are easy to understand and act upon.    
+
+This is particularly valuable for nonprofit managers, fundraising officers, and other stakeholders who may not have a technical background.   
+
+### Future Enhancements      
+
+- Integrate a Large Language Model (LLM) to generate richer contextual insights and fundraising recommendations.    
+- Support downloadable executive summary reports in PDF format.    
+  
+---
+##  Other Features
 
 - **Streamlit Dashboard** with interactive tabs:
   -  Gift Frequency Distribution  
