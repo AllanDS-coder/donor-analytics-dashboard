@@ -8,7 +8,7 @@
 
 **Explore the dashboard online:**     
 
-https://donor-analytics-dashboard-kzay7m3emrff5lwdbpvwxf.streamlit.app/   
+https://donor-analytics-dashboard.streamlit.app/      
 
 ---
  
